@@ -1,2 +1,4 @@
 06/10/2019
 Read https://www.bluemoon.com.vn/books/8935048992197.html and study how to debug with gdb.
+__cxa_atexit() registers a function to be called by exit or when a shared library is unloaded.
+
